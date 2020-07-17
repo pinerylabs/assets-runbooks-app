@@ -33,3 +33,27 @@
   font-style: normal;
   font-weight: normal;
   src: url("/fonts/menlo.woff") format("woff"); }
+
+p {
+  font-size: 20px; }
+
+p.avenir {
+  font-family: "Avenir", sans-serif; }
+
+p.avenir-bold {
+  font-family: "Avenir", sans-serif;
+  font-weight: bold; }
+
+p.hoefler-text {
+  font-family: "Hoefler Text", serif; }
+
+p.hoefler-text-black {
+  font-family: "Hoefler Text", serif;
+  font-weight: bold; }
+
+p.hoefler-text-italic {
+  font-family: "Hoefler Text Italic", serif;
+  font-style: italic; }
+
+p.menlo {
+  font-family: "Menlo", monospace; }
